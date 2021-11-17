@@ -10,12 +10,12 @@ This is a respository to showcase my skills, share projects, and track my progre
 
  - [About](#about) 
  - [Thinkful Projects](#thinkful-projects)
-	* [Steph Curry Scoring Analysis](steph-curry-scoring-analysis)
+	* [Steph Curry Scoring Analysis](#steph-curry-scoring-analysis)
 	* [Housing Price Investment Strategy](housing-price-investment-strategy)
-    * [Vehicle Fuel Cost Analysis](vehicle-fuel-cost-analysis)
-	* [Lariat Rent-A-Car](lariat-rent-a-car)
- - [Personal Projects](personal-projects) 
-	 - [Personal Netflix Analysis](personal-netflix-analysis)
+    * [Vehicle Fuel Cost Analysis](#vehicle-fuel-cost-analysis)
+	* [Lariat Rent-A-Car](#lariat-rent-a-car)
+ - [Personal Projects](#personal-projects)
+	 * [Netflix Analysis](#netflix-analysis)
 
 ## Thinkful Projects 
 In this section I will list data analytics that I completed as part of the Thinkful Data Analytics Bootcamp
