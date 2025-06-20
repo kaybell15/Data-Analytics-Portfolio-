@@ -15,7 +15,7 @@
 - **Tableau** for interactive visual design
 
 ## 📊 Dashboard
-🔗 [View it on Tableau Public]([your_tableau_public_link_here](https://public.tableau.com/views/StephDashboard_17497642828390/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [View it on Tableau Public](https://public.tableau.com/views/StephDashboard_17497642828390/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📷 Preview
 
