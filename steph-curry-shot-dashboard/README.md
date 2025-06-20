@@ -19,4 +19,4 @@
 
 ## 📷 Preview
 
-![Steph Curry Dashboard Preview](dashboard-preview.png)
+![Steph Curry Dashboard Preview](Steph_Curry_Shot_Dashboard.png)
