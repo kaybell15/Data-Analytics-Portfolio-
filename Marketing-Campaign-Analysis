@@ -1,0 +1,15 @@
+# 💡 Marketing Campaign Performance Analysis
+
+This notebook analyzes 200,000 rows of marketing data to identify the most effective campaign strategies across customer segments, locations, and channels. It answers five business questions related to ROI, conversion, and engagement performance.
+
+## 🔍 Key Features
+- Data cleaning and transformation in Python
+- Heatmaps, bar plots, and scatterplots using Seaborn and Matplotlib
+- Business insights with Top/Bottom ranked strategies
+- Final recommendations to guide marketing spend optimization
+
+## 📁 File
+- `Marketing_Campaign_Analysis.ipynb` – Full analysis notebook
+
+## 🔧 Tools Used
+- Python, Pandas, Seaborn, Matplotlib, Google Colab
