@@ -21,4 +21,41 @@ I’m a **detail-oriented and highly motivated Data Analyst** with a proven trac
  - **Statistical Analysis**: Hypothesis testing, regression, classification
  - **Business Intelligence**: BI tools, data warehousing, dashboard design
 
+## 📁 Projects
+
+### 📊 Campaign Strategy Optimization
+**Goal:** Analyze campaign performance across customer segments, channels, and locations to uncover actionable marketing insights.  
+**Key Outcomes:**
+- Identified top segment + campaign type combos with highest ROI (e.g., Tech Enthusiasts + Influencer).
+- Found that Foodies and Outdoor Adventurers showed the highest engagement in key cities.
+- Compared acquisition cost and conversion rate across channels (e.g., Email, Instagram).
+- Used heatmaps, bar charts, and correlation analysis to support decision-making.
+
+**Skills Applied:** Data cleaning, groupby analysis, visualization (Seaborn/Matplotlib), pivot tables, correlation analysis  
+**Tools:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook  
+[View Project Notebook »](your-notebook-link-here)
+
+---
+
+### 🏀 NBA Player Performance Dashboard (Stephen Curry)
+**Goal:** Explore Stephen Curry's shooting performance over his career, focusing on patterns by day of the week and court zones.  
+**Key Outcomes:**
+- Created an interactive Tableau dashboard to visualize zone-based shooting accuracy.
+- Identified trends in performance by weekday and filtered by shot distance.
+
+**Skills Applied:** Exploratory Data Analysis (EDA), Tableau Dashboard Design, Shot Chart Mapping  
+**Tools:** Tableau, Python, Pandas, Jupyter Notebook  
+[View Tableau Dashboard »](your-dashboard-link-here)
+
+---
+
+### 🔐 Cybersecurity Homelab Simulation
+**Goal:** Build a virtual homelab with pfSense firewall, VLANs, and Linux-based environments for secure testing.  
+**Key Outcomes:**
+- Created isolated virtual networks for Linux Mint and Kali Linux using VirtualBox.
+- Simulated attacks and defensive responses to strengthen cybersecurity practices.
+
+**Skills Applied:** Network segmentation, virtualization, firewall configuration, threat simulation  
+**Tools:** pfSense, VirtualBox, Kali Linux, Linux Mint  
+[View Setup Walkthrough »](your-link-here)
 
