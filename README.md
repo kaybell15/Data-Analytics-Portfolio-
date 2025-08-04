@@ -33,7 +33,7 @@ I’m a **detail-oriented and highly motivated Data Analyst** with a proven trac
 
 **Skills Applied:** Data cleaning, groupby analysis, visualization (Seaborn/Matplotlib), pivot tables, correlation analysis  
 **Tools:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook  
-[View Project Notebook »](your-notebook-link-here)
+[View Project Notebook »](Marketing-Campaign-Analysis)
 
 ---
 
@@ -45,7 +45,7 @@ I’m a **detail-oriented and highly motivated Data Analyst** with a proven trac
 
 **Skills Applied:** Exploratory Data Analysis (EDA), Tableau Dashboard Design, Shot Chart Mapping  
 **Tools:** Tableau, Python, Pandas, Jupyter Notebook  
-[View Tableau Dashboard »](your-dashboard-link-here)
+[View Tableau Dashboard »](steph-curry-shot-dashboard)
 
 ---
 
