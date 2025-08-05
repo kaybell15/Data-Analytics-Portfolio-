@@ -1,0 +1,66 @@
+# 🌤️ Weather Data Tracker – Automated ETL Pipeline
+
+A fully automated Python ETL pipeline that extracts real-time weather data from the OpenWeatherMap API, transforms it for analysis, and stores it in both a relational database and a CSV backup. The job is scheduled to run daily using `cron` on macOS.
+
+---
+
+## 🛠️ Tech Stack
+
+| Stage         | Tool/Technology                   |
+|---------------|-----------------------------------|
+| Language      | Python                            |
+| Data Source   | OpenWeatherMap API                |
+| Transformation| pandas                            |
+| Storage       | SQLite (can adapt to PostgreSQL)  |
+| Scheduling    | cron (macOS)                      |
+| Backup        | CSV                               |
+| Logging       | Python logging module             |
+
+---
+
+## 🧩 Features
+
+- **Extract** current weather data using OpenWeatherMap API.
+- **Transform** and clean fields like temperature, humidity, and wind speed.
+- **Load** data into a SQLite database (`weather_data.db`).
+- **Backup** cleaned data to a CSV (`weather_backup.csv`).
+- **Schedule** job daily with `cron` to run automatically.
+- **Log** each ETL step and errors for easy monitoring.
+
+---
+
+## 📁 Project Structure
+
+```
+weather_data_tracker/
+├── .env                     # API key and city name
+├── etl.py                   # Main ETL script
+├── weather_data.db          # SQLite database
+├── weather_log.txt          # ETL process logs
+├── cron_output.log          # Output/errors from cron job
+├── backup/
+│   └── weather_backup.csv   # Daily CSV backup
+```
+
+---
+
+## ⚙️ Automation (Cron)
+
+The pipeline is triggered daily using macOS `cron`.
+
+### Example cron job (runs daily at 10:00 AM):
+
+```cron
+0 10 * * * /Users/kaylabell/weather_data_tracker/venv/bin/python /Users/kaylabell/weather_data_tracker/etl.py >> /Users/kaylabell/weather_data_tracker/cron_output.log 2>&1
+```
+
+---
+
+## 🧪 How I Tested It
+
+- Manually ran the ETL script to verify correct data extraction, transformation, and loading.
+- Used `DB Browser for SQLite` to view and validate database contents.
+- Verified CSV backups and `cron` execution using timestamped logs.
+- Simulated `cron` runs every minute to confirm reliability before switching to daily scheduling.
+
+---
